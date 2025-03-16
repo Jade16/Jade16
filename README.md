@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi 👋 I'm Jade
+I am an undergraduate student in Information Systems at [University of São Paulo](https://usp.br)'s [Institute of Mathematics and Computer Sciences](https://www.icmc.usp.br/en/)
 
+[![stats](https://github-readme-stats.vercel.app/api?username=jade16&theme=material-palenight)](https://github.com/Jade16)
+[![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jade16&exclude_repo=dotfiles&langs_count=8&layout=compact&theme=material-palenight)](https://github.com/Jade16?tab=repositories)
 <!--
 **Jade16/Jade16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
